@@ -1,1 +1,1 @@
-# Word_count first Commit LikeLion 7th ParkJiSu
+# Word_count Like Lion Park Gaeun
